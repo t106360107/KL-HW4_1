@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">HWK4_1</string>
+
+    <integer-array name="imgArray">
+        <item>@drawable/cubee1</item>
+        <item>@drawable/cubee2</item>
+        <item>@drawable/cubee3</item>
+        <item>@drawable/cubee4</item>
+        <item>@drawable/cubee5</item>
+        <item>@drawable/cubee6</item>
+        <item>@drawable/cubee7</item>
+        <item>@drawable/cubee8</item>
+        <item>@drawable/cubee9</item>
+        <item>@drawable/cubee10</item>
+    </integer-array>
+
+    <string-array name="nameArray">
+        <item>哭哭</item>
+        <item>發抖</item>
+        <item>再見</item>
+        <item>生氣</item>
+        <item>昏倒</item>
+        <item>竊笑</item>
+        <item>很棒</item>
+        <item>你好</item>
+        <item>驚嚇</item>
+        <item>大笑</item>
+    </string-array>
+
+    <integer-array name="imgArray2">
+        <item>@drawable/trans1</item>
+        <item>@drawable/trans2</item>
+        <item>@drawable/trans3</item>
+        <item>@drawable/trans4</item>
+    </integer-array>
+
+    <string-array name="nameArray2">
+        <item>腳踏車</item>
+        <item>機車</item>
+        <item>汽車</item>
+        <item>巴士</item>
+    </string-array>
+</resources>
